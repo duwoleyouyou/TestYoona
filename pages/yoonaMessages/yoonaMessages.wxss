@@ -1,0 +1,12 @@
+/* pages/yoonaMessages/yoonaMessages.wxss */
+#iconParent{
+  display: flex;
+  justify-content: center;
+}
+#icon{
+  height: 600rpx;
+}
+
+.text{
+  text-indent: 2em;
+}

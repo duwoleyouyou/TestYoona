@@ -1,0 +1,5 @@
+/* pages/video/video.wxss */
+.page-body{
+  display: flex;
+  justify-content: center;
+}

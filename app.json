@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/yoonaMessages/yoonaMessages",
+    "pages/photos/photos",
+    "pages/video/video"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFCCCC",
+    "navigationBarTitleText": "林允儿安利小程序",
+    "navigationBarTextStyle": "black"
+  },
+    "tabBar": {
+      "position": "bottom",
+      "borderStyle": "white",
+      "color": "#a9b7b7",
+      "selectedColor": "#11cd6e",
+      "list": [
+        {
+          "pagePath": "pages/yoonaMessages/yoonaMessages",
+          "text": "基本资料"
+        },
+        {
+          "pagePath": "pages/photos/photos",
+          "text": "美图"
+        },
+        {
+          "pagePath": "pages/video/video",
+          "text": "综艺"
+        }
+      ]
+    }
+}

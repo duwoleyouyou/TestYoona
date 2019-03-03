@@ -1,0 +1,6 @@
+<!--pages/video/video.wxml-->
+<view class="page-body">
+    <video src="{{getVideoInfo(j0841lcput8)}}"
+    binderror="listenerVideo">
+    </video>
+</view>
